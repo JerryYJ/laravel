@@ -1,4 +1,4 @@
-# Laravel 深入浅出详解
+<p align="center"><img src="https://wantu-kw0-asset007-hz.oss-cn-hangzhou.aliyuncs.com/A0FWi2CvSJOmnffzVvB.png?x-oss-process=image/resize,p_50" srcset="https://wantu-kw0-asset007-hz.oss-cn-hangzhou.aliyuncs.com/A0FWi2CvSJOmnffzVvB.png?x-oss-process=image/resize,p_50 1x, https://wantu-kw0-asset007-hz.oss-cn-hangzhou.aliyuncs.com/A0FWi2CvSJOmnffzVvB.png 2x"/></p>
 
 ## 目录
 * [HTTP 入口解析](https://github.com/xiaohuilam/laravel/issues/1)
