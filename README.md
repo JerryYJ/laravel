@@ -1,4 +1,4 @@
-<p align="center"><a href="https://github.com/xiaohuilam/laravel/issues?q=is%3Aissue+is%3Aopen+sort%3Acreated-asc+label%3Abook"><img src="https://wantu-kw0-asset007-hz.oss-cn-hangzhou.aliyuncs.com/A0FWi2CvSJOmnffzVvB.png?x-oss-process=image/resize,p_50" srcset="https://wantu-kw0-asset007-hz.oss-cn-hangzhou.aliyuncs.com/A0FWi2CvSJOmnffzVvB.png?x-oss-process=image/resize,p_50 1x, https://wantu-kw0-asset007-hz.oss-cn-hangzhou.aliyuncs.com/A0FWi2CvSJOmnffzVvB.png 2x"/></a></p>
+<p align="center"><a href="https://github.com/xiaohuilam/laravel/issues?q=is%3Aissue+is%3Aopen+sort%3Acreated-asc+label%3Abook"><img src="https://wantu-kw0-asset007-hz.oss-cn-hangzhou.aliyuncs.com/K6alX68P7TIXnS7uiil.svg%2Bxml"/></a></p>
 
 ## 目录
 * [HTTP 入口解析](https://github.com/xiaohuilam/laravel/issues/1)
